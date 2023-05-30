@@ -11,8 +11,8 @@ public class Test1 {
 //        for (int i = 0; i < 3; i++) {
 //            System.out.println(stack.pop());
 //            System.out.println(stack.peek());
-////            pop 제거 하나 꺼냄
-////            peek 하나 꺼냄 보기만
+////            pop 제거 하나 꺼냄 맨 위에거를 먼저꺼내는걸
+////            peek 하나 꺼냄 보기만 맨위에거를 확인만함
 //        }
         print(0);
     }
